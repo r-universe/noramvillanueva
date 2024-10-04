@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "seq2R"]
 	path = seq2R
-	url = https://github.com/cran/seq2R
+	url = https://github.com/noramvillanueva/seq2r
