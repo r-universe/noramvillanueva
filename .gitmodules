@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "clustcurv"]
+	path = clustcurv
+	url = https://github.com/noramvillanueva/clustcurv
 [submodule "seq2R"]
 	path = seq2R
 	url = https://github.com/noramvillanueva/seq2r
